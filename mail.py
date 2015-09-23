@@ -111,7 +111,7 @@ class Mail:
         '''
         @setup API httpRequest URI
         '''
-        api = 'https://api.submail.cn/mail/send.json'
+        api = 'https://api.submail.cn/mail/xsend.json'
 
 
         '''
